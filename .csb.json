@@ -3,7 +3,7 @@
     "src/App.tsx",
     "src/video-player.tsx",
     "src/index.css",
-    "tailwind.config.js"
+    "tailwind.config.cjs"
   ],
   "activeFile": "src/App.tsx",
   "template": "vite-react-ts",
